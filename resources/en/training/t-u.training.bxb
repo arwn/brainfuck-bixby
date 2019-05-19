@@ -1,0 +1,5 @@
+train (t-ulvlc8lcnhiaj36nr8piwolm7) {
+  utterance ("[g:printTranslation] translate (this)[v:sentence]")
+  plan (Y2Bm4C3LLNNLzi9K1QtJrShhkC5OzElM0UsrTc7WKyjKzCsJKUrMK85JLMnMz2MQRpIsTs0rSc1LTmVgYmAEYgYgycgAAlA+AA==)
+  last-modified (1558212939352)
+}

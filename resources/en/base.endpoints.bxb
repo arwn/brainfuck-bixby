@@ -1,0 +1,8 @@
+endpoints {
+  action-endpoints {
+    action-endpoint (printTranslation) {
+      accepted-inputs (sentence)
+      local-endpoint (translate.js)
+    }
+  }
+}

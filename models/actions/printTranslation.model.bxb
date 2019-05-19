@@ -1,0 +1,10 @@
+action (printTranslation) {
+  description (__DESCRIPTION__)
+  collect {
+    input (sentence) {
+      type (sentence)
+      min (Required) max (One)
+    }
+  }
+  output (sentence)
+}
